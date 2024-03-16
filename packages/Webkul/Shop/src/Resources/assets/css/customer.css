@@ -1,0 +1,15 @@
+* {
+    font-family: system-ui;
+}
+#header-desktop .item,.before-header .item{
+ margin-left: 20px;
+ font-weight: 600;
+}
+#header-desktop .item{
+    color: #fff;
+}
+.container-full{
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
